@@ -1,1 +1,3 @@
-﻿
+﻿/* SQL */
+
+SELECT * FROM Author;
